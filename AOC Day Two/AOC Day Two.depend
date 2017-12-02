@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512192259 source:c:\users\minya\documents\advent of code\advent-of-code-2017\aoc day two\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
